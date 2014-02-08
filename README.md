@@ -9,17 +9,10 @@ Similar to the game Snake, this features a caterpillar trying to make its way in
 - Use of HTML, jQuery, and CSS3 to create the game display, UI transitions, and game animations
 
 **Apps used:**
-<<<<<<< HEAD
 - Programming: Sublime Text 2
 - Graphics: Inkscape
 - Dev/Debug: Firefox w/ Firebug
 - Sound editing: Audacity
-=======
-- Programming / Sublime Text 2
-- Graphics / InkScape
-- Dev/Debug / Firefox w/ Firebug
-- Sound editing / Audacity
->>>>>>> 79c776f45b8c0084d1bb8a6e44b4d540675c66b3
 
 **Concepts covered:**
 - Callbacks
